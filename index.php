@@ -1,7 +1,1 @@
-<<?php 
-
-echo "Hello world povo!!";
-
-echo "novo teste!";
-
- ?>
+<?php include ("cabecalho.php"); ?>
